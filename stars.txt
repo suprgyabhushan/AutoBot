@@ -1,3 +1,0 @@
-https://github.com/pavithirakc/pavithirakc.github.io
-https://github.com/pavithirakc/2048
-https://github.com/openframeworks/ofBook
